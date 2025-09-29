@@ -1,2 +1,0 @@
-# PlataformaWeb
-PHYSIK
